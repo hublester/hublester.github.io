@@ -1,0 +1,2428 @@
+{
+  "settings": {
+    "name": "MEAL FT",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#000000",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Titillium Web",
+        "subtitleFont": "Titillium Web",
+        "textFont": "Open Sans",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "favicon": "",
+    "noImageResize": "",
+    "versionFirst": "3.9.2",
+    "uniqCompNum": 72,
+    "versionPublish": "3.9.2",
+    "publishType": "github",
+    "ftpLocation": "ftp://n260m_19202229@ftp.260mb.net:21",
+    "publishFtpPath": "MEALFT260"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "MealFT",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "12px"
+            },
+            ".navbar-toggler": {
+              "color": "#c1c1c1"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c1c1c1"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c1c1c1",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-family": "'Titillium Web', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c1c1c1",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Titillium Web",
+              "url": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "css": "'Titillium Web', sans-serif"
+            },
+            "fontColor": "#c1c1c1",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/meal-imagen-base-244x128-11.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mexican Alimentary Fresh Technology</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"evolucionalimentaria.html\">Evolución Alimentaria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"oportunidaddenegocio.html\">Oportunidad de Negocio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nuestromenu.html\">Nuestro Menú</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nuestrasinstalaciones.html\">Nuestras Instalaciones</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-p\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead B": {
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "30px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#e7850c"
+            },
+            ".mbr-section-title": {
+              "color": "#e7850c"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/meal-2000x1500-43.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Evolución Alimentaria<br><br>",
+          "text": "<span style=\"line-height: 1.5;\">\"UNA DELICIOSA SOLUCIÓN\"</span><br>Hecha naturalmente para su bienestar&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"evolucionalimentaria.html\" data-toolbar=\"-mbrBtnMove\">Conozca el concepto</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "color": "#b12726"
+            },
+            ".mbr-section-lead": {
+              "font-size": "30px"
+            },
+            ".mbr-section-title": {
+              "color": "#b12726"
+            }
+          },
+          "_anchor": "header1-9",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fni-handshake-43772743-2000x1333-54.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Oportunidad de Negocio<br><br>",
+          "text": "<span style=\"line-height: 1.5;\">\"SU ÉXITO ES NUESTRO COMPROMISO\"</span><br>Nosotros le asesoramos para desarrollar su propio modelo de negocio<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"oportunidaddenegocio.html\" data-toolbar=\"-mbrBtnMove\">Conozca los detalles</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#59aaf4"
+            },
+            ".mbr-section-lead": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "header1-a",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/home-4-2000x1291-17.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Nuestro Menú<br><br>",
+          "text": "\"COMIDA LISTA PARA CALENTARSE Y SERVIRSE\"<br> Sin conservadores, químicos o colorantes, ingredientes 100% naturales",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"nuestromenu.html\" data-toolbar=\"-mbrBtnMove\">Conozca nuestros platillos</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#53b961"
+            },
+            ".mbr-section-lead": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "header1-b",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/commercial-restaurant-kitchen-design-commercial-kitchen-amp-interior-design-restaurants-hotels-amp-more-best-designs-2000x875-95.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Nuestras Instalaciones<br><br>",
+          "text": "\"CONTAMOS CON INSTALACIONES DE VANGUARDIA\"<br>La más alta tecnología y eficiencia en la elaboración de los productos",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"nuestrasinstalaciones.html\" data-toolbar=\"-mbrBtnMove\">Conozca nuestra infraestructura</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-l",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Mexican Alimentary Fresh Technology - México 2016 Todos los derechos reservados."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "SPAN": {
+              "color": "#7c7c7c",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "STRONG": {
+              "font-size": "14px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#7c7c7c"
+            },
+            "UL": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "contacts4-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\"><b>Visítenos</b></span><br><br>Av. La Cañada No. 8-N<br>Parque Industrial Bernardo Quintana<br>El marqués, Querétaro 76246<br><br><br>\n<b>Póngase en contacto&nbsp;</b><br><b><br></b>Rellene el formulario y a la brevedad lo contactaremos.",
+          "text2": "<p class=\"mbr-contacts__text\"><b>Mapa del sitio</b></p><p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"evolucionalimentaria.html\">Evolución Alimentaria</a></li><li><a href=\"oportunidaddenegocio.html\">Oportunidad de Negocio</a></li><li><a href=\"nuestromenu.html\">Nuestro Menú</a></li><li><a href=\"nuestrasinstalaciones.html\">Nuestras Instalaciones</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "agasca@mealft.com.mx",
+            "alerts": {
+              "success": "Su mensaje ha sido recibido!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contáctenos</a>"
+        }
+      ]
+    },
+    "nuestromenu.html": {
+      "settings": {
+        "title": "Nuestro Menú",
+        "order": 4
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "12px"
+            },
+            ".navbar-toggler": {
+              "color": "#c1c1c1"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c1c1c1"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c1c1c1",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-family": "'Titillium Web', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c1c1c1",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-c",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Titillium Web",
+              "url": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "css": "'Titillium Web', sans-serif"
+            },
+            "fontColor": "#c1c1c1",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/meal-imagen-base-244x128-11.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mexican Alimentary Fresh Technology</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"evolucionalimentaria.html\">Evolución Alimentaria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"oportunidaddenegocio.html\">Oportunidad de Negocio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nuestromenu.html\">Nuestro Menú</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nuestrasinstalaciones.html\">Nuestras Instalaciones</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-p\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-g",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgColor": "#59aaf4",
+            "showMeta": false
+          },
+          "title": "Nuestro Menú",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "60px"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-1w",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/stock-photo-closeup-of-a-earthenware-plate-with-picadillo-a-traditional-dish-in-many-latin-american-countries-129477245-1400x992-68.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "No sólo es la tecnología",
+          "text": "Además de la innovadora forma en la que preparamos nuestros alimentos y todas las ventajas que estos ofrecen &nbsp;a nuestros clientes, también creemos que es sumamente importante el enfoque que ponemos en su delicioso sabor y la gran variedad de platillos con la que contamos, categorizados en:<br><br><b>Comida Mexicana, Especialidades,<br>Pastas y Acompañamientos</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_styles": {
+            "LI": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-gallery-item > div > span": {
+              "font-size": "18px"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "images": [
+              {
+                "tags": "Comida Mexicana",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pollo-con-mole-y-arroz-rojo-2000x805-10-2000x805-8.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pollo-con-mole-y-arroz-rojo-2000x805-10.jpg",
+                "caption": "Pollo con Mole y Arroz Rojo<br>",
+                "active": false
+              },
+              {
+                "tags": "Comida Mexicana",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/picadillo-2000x805-51-2000x805-38.jpg",
+                "image": "@PROJECT_PATH@/assets/images/picadillo-2000x805-51.jpg",
+                "caption": "Picadillo<br>",
+                "active": false
+              },
+              {
+                "tags": "Comida Mexicana",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bistec-a-la-mexicana-2000x805-4-2000x805-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bistec-a-la-mexicana-2000x805-4.jpg",
+                "caption": "Bistec a la Mexicana<br>",
+                "active": false
+              },
+              {
+                "tags": "Comida Mexicana",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chicharrn-en-salsa-verde-2000x805-41-2000x805-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/chicharrn-en-salsa-verde-2000x805-41.jpg",
+                "caption": "Chicharrón en Salsa Verde<br>",
+                "active": false
+              },
+              {
+                "tags": "Comida Mexicana",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/albndigas-al-chipotle-2000x805-92-2000x805-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albndigas-al-chipotle-2000x805-92.jpg",
+                "caption": "Albóndigas al Chipotle<br>",
+                "active": false
+              },
+              {
+                "tags": "Comida Mexicana",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cochinita-pibil-2000x805-14-2000x805-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cochinita-pibil-2000x805-14.jpg",
+                "caption": "Cochinita Pibil<br>",
+                "active": false
+              },
+              {
+                "tags": "Comida Mexicana",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rajas-con-crema-2000x805-6-2000x805-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rajas-con-crema-2000x805-6.jpg",
+                "caption": "Rajas con Crema<br>",
+                "active": false
+              },
+              {
+                "tags": "Comida Mexicana",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flor-de-andamio-2000x805-59-2000x805-34.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flor-de-andamio-2000x805-59.jpg",
+                "caption": "Flor de Andamio<br>",
+                "active": false
+              },
+              {
+                "tags": "Comida Mexicana",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tinga-de-pollo-2000x805-29-2000x805-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tinga-de-pollo-2000x805-29.jpg",
+                "caption": "Tinga de Pollo<br>",
+                "active": false
+              },
+              {
+                "tags": "Comida Mexicana",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/res-en-pasilla-2000x805-94-2000x805-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/res-en-pasilla-2000x805-94.jpg",
+                "caption": "Res en Pasilla<br>",
+                "active": false
+              },
+              {
+                "tags": "Especialidades",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/chuleta-agridulce-con-fusilli-2000x805-31-2000x805-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/chuleta-agridulce-con-fusilli-2000x805-31.jpg",
+                "caption": "Chuleta Agridulce con Fusilli<br>",
+                "active": false
+              },
+              {
+                "tags": "Especialidades",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/costillas-a-la-bbq-con-pur-de-papa-2000x805-70-2000x805-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/costillas-a-la-bbq-con-pur-de-papa-2000x805-70.jpg",
+                "caption": "Costillas a la BBQ con Puré de Papa<br>",
+                "active": false
+              },
+              {
+                "tags": "Especialidades",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pescado-a-la-veracruzana-con-arroz-blanco-2000x805-94-2000x805-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pescado-a-la-veracruzana-con-arroz-blanco-2000x805-94.jpg",
+                "caption": "Pescado a la Veracruzana con Arroz Blanco<br>",
+                "active": false
+              },
+              {
+                "tags": "Especialidades",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pollo-cacerola-con-arroz-blanco-2000x805-42-2000x805-70.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pollo-cacerola-con-arroz-blanco-2000x805-42.jpg",
+                "caption": "Pollo Cacerola con Arroz Blanco<br>",
+                "active": false
+              },
+              {
+                "tags": "Especialidades",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/estofado-de-res-con-pur-de-papa-2000x805-85-2000x805-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/estofado-de-res-con-pur-de-papa-2000x805-85.jpg",
+                "caption": "Estofado de Res con Puré de Papa<br>",
+                "active": false
+              },
+              {
+                "tags": "Especialidades",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pierna-adobada-con-arroz-blanco-2000x805-21-2000x805-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pierna-adobada-con-arroz-blanco-2000x805-21.jpg",
+                "caption": "Pierna Adobada con Arroz Blanco<br>",
+                "active": false
+              },
+              {
+                "tags": "Pastas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fusilli-vegetariano-2000x805-10-2000x805-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fusilli-vegetariano-2000x805-10.jpg",
+                "caption": "Fusilli Vegetariano<br>",
+                "active": false
+              },
+              {
+                "tags": "Pastas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/penne-con-camarones-al-ajillo-2000x805-72-2000x805-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/penne-con-camarones-al-ajillo-2000x805-72.jpg",
+                "caption": "Penne con Camarón al Ajillo<br>",
+                "active": false
+              },
+              {
+                "tags": "Pastas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/spaguetti-a-la-bolognesa-2000x805-53-2000x805-83.jpg",
+                "image": "@PROJECT_PATH@/assets/images/spaguetti-a-la-bolognesa-2000x805-53.jpg",
+                "caption": "Spaguetti a la Bolognesa<br>",
+                "active": false
+              },
+              {
+                "tags": "Pastas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fusilli-pesto-con-pollo-a-la-parrilla-2000x805-82-2000x805-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fusilli-pesto-con-pollo-a-la-parrilla-2000x805-82.jpg",
+                "caption": "Fusilli Pesto con Pollo a la Parrilla<br>",
+                "active": false
+              },
+              {
+                "tags": "Acompañamientos",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frijoles-refritos-2000x805-1-2000x805-54.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frijoles-refritos-2000x805-1.jpg",
+                "caption": "Frijoles Refritos<br>",
+                "active": false
+              },
+              {
+                "tags": "Acompañamientos",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frijoles-charros-2000x805-84-2000x805-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frijoles-charros-2000x805-84.jpg",
+                "caption": "Frijoles Charros<br>",
+                "active": false
+              },
+              {
+                "tags": "Acompañamientos",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pur-de-papa-2000x805-73-2000x805-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pur-de-papa-2000x805-73.jpg",
+                "caption": "Puré de Papa<br>",
+                "active": false
+              },
+              {
+                "tags": "Acompañamientos",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/arroz-blaco-con-elote-2000x805-88-2000x805-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/arroz-blaco-con-elote-2000x805-88.jpg",
+                "caption": "Arroz Blanco con Elote<br>",
+                "active": false
+              },
+              {
+                "tags": "Acompañamientos",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/arroz-rojo-con-zanahoria-y-chcharo-2000x805-85-2000x805-61.jpg",
+                "image": "@PROJECT_PATH@/assets/images/arroz-rojo-con-zanahoria-y-chcharo-2000x805-85.jpg",
+                "caption": "Arroz Rojo con Zanahoria y Chícharo<br>",
+                "active": false
+              },
+              {
+                "tags": "Acompañamientos",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frijoles-de-la-olla-2000x805-23-2000x805-49.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frijoles-de-la-olla-2000x805-23.jpg",
+                "caption": "Frijoles de la Olla<br>",
+                "active": false
+              },
+              {
+                "tags": "Acompañamientos",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/salsa-pasilla-2000x805-35-2000x805-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/salsa-pasilla-2000x805-35.jpg",
+                "caption": "Salsa Pasilla<br>",
+                "active": false
+              },
+              {
+                "tags": "Acompañamientos",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/salsa-roja-2000x805-91-2000x805-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/salsa-roja-2000x805-91.jpg",
+                "caption": "Salsa Roja",
+                "active": false
+              },
+              {
+                "tags": "Acompañamientos",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/salsa-verde-2000x805-61-2000x805-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/salsa-verde-2000x805-61.jpg",
+                "caption": "Salsa Verde<br>",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": true,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-h",
+          "articleLayout": false,
+          "allItem": "Todas"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "SPAN": {
+              "color": "#7c7c7c",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "STRONG": {
+              "font-size": "14px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#7c7c7c"
+            },
+            "UL": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "contacts4-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\"><b>Visítenos</b></span><br><br>Av. La Cañada No. 8-N<br>Parque Industrial Bernardo Quintana<br>El marqués, Querétaro 76246<br><br><br>\n<b>Póngase en contacto&nbsp;</b><br><b><br></b>Rellene el formulario y a la brevedad lo contactaremos.",
+          "text2": "<p class=\"mbr-contacts__text\"><b>Mapa del sitio</b></p><p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"evolucionalimentaria.html\">Evolución Alimentaria</a></li><li><a href=\"oportunidaddenegocio.html\">Oportunidad de Negocio</a></li><li><a href=\"nuestromenu.html\">Nuestro Menú</a></li><li><a href=\"nuestrasinstalaciones.html\">Nuestras Instalaciones</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "agasca@mealft.com.mx",
+            "alerts": {
+              "success": "Su mensaje ha sido recibido!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contáctenos</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-u",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Mexican Alimentary Fresh Technology - México 2016 Todos los derechos reservados."
+        }
+      ]
+    },
+    "evolucionalimentaria.html": {
+      "settings": {
+        "title": "Evolución Alimentaria",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgColor": "#e7850c",
+            "showMeta": false
+          },
+          "title": "Evolución Alimentaria",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "16px"
+            },
+            "H3": {
+              "text-align": "left",
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "msg-box5-15",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/dias-alternos-dieta-1400x700-1.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Una &nbsp;evolución<br>constante en la preparación de alimentos<br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "content1-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Somos una marca 100% mexicana que da frente a los retos actuales, desarrollando la más práctica e innovadora solución en alimentación de vanguardia, desarrollando productos de alta calidad nutrimental con estándares de primer nivel y ofreciendo la perfecta solución a la gran problemática en los centros de producción alimentaria, contribuyendo así a mejorar el rendimiento en las empresas de nuestros clientes.&nbsp;</p><p><br></p><p>Nuestros alimentos han sido cuidadosamente desarrollados por nuestro selecto equipo de investigadores, nutriólogos y chefs profesionales, con tecnologías de vanguardia para brindar soluciones reales a la industria alimentaria con productos prácticos, innovadores, de alta calidad nutrimental y con características únicas en el mercado actual.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1e",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-chef-group-cooking-isolated-over-white-background-90453268-2000x1448-96.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Nuestros Valores",
+          "text": "<p>Son la base de la confianza que nuestros clientes depositan en nosotros</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "content7-1b",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Innovación:</b> Siempre un paso adelante, siempre con la creación de nuevas ideas.</p>",
+          "text2": "<p><b>Honestidad:</b> Simplemente la coherencia entre lo que se predica y lo que se aplica.</p>",
+          "text3": "<p><b>Compromiso: </b>La rectitud, la buena voluntad de conducta que nos permite la decisión de cumplir nuestras promesas a través de nuestro trabajo a diario.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "content7-1c",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Respeto: </b>Amabilidad como sello en la interacción.</p>",
+          "text2": "<p><b>Responsabilidad:</b> Actuamos con seriedad, en consecuencia con nuestros deberes y derechos.</p>",
+          "text3": "<p><b>Servicio:</b> Gozamos y disfrutamos lo que hacemos. Damos respuesta a las necesidades de nuestros clientes y colaboradores de forma amable, oportuna y efectiva.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1f",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-albondigas-mexican-meatballs-277526162-2000x1475-27.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Nuestros Objetivos",
+          "text": "<p>Tenemos una serie de metas y retos muy claros para nuestra empresa</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "content1-1i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Nuestra Misión</b></p><p><br></p><p>Ser la mejor opción en alimentación práctica y saludable, garantizando la más alta calidad nutrimental , satisfaciendo a nuestros consumidores y distribuidores.</p><p><br></p><p><b>Nuestra Visión</b></p><p><br></p><p>Estar en constante evolución, utilizando las más innovadoras tecnologías y siguiendo las últimas tendencias en alimentación práctica y nutritiva a nivel mundial.</p><p><br></p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "12px"
+            },
+            ".navbar-toggler": {
+              "color": "#c1c1c1"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c1c1c1"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c1c1c1",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-family": "'Titillium Web', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c1c1c1",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-q",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Titillium Web",
+              "url": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "css": "'Titillium Web', sans-serif"
+            },
+            "fontColor": "#c1c1c1",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/meal-imagen-base-244x128-11.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mexican Alimentary Fresh Technology</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"evolucionalimentaria.html\">Evolución Alimentaria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"oportunidaddenegocio.html\">Oportunidad de Negocio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nuestromenu.html\">Nuestro Menú</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nuestrasinstalaciones.html\">Nuestras Instalaciones</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-p\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-r",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Mexican Alimentary Fresh Technology - México 2016 Todos los derechos reservados."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "SPAN": {
+              "color": "#7c7c7c",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "STRONG": {
+              "font-size": "14px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#7c7c7c"
+            },
+            "UL": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "contacts4-s",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\"><b>Visítenos</b></span><br><br>Av. La Cañada No. 8-N<br>Parque Industrial Bernardo Quintana<br>El marqués, Querétaro 76246<br><br><br>\n<b>Póngase en contacto&nbsp;</b><br><b><br></b>Rellene el formulario y a la brevedad lo contactaremos.",
+          "text2": "<p class=\"mbr-contacts__text\"><b>Mapa del sitio</b></p><p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"evolucionalimentaria.html\">Evolución Alimentaria</a></li><li><a href=\"oportunidaddenegocio.html\">Oportunidad de Negocio</a></li><li><a href=\"nuestromenu.html\">Nuestro Menú</a></li><li><a href=\"nuestrasinstalaciones.html\">Nuestras Instalaciones</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "agasca@mealft.com.mx",
+            "alerts": {
+              "success": "Su mensaje ha sido recibido!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contáctenos</a>"
+        }
+      ]
+    },
+    "oportunidaddenegocio.html": {
+      "settings": {
+        "order": 3,
+        "title": "Oportunidad de Negocio"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-10",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgColor": "#b12726",
+            "showMeta": false
+          },
+          "title": "Oportunidad de Negocio",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "60px"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-1k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/stock-photo-serious-businessman-125885339-1400x1001-4.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Su &nbsp;éxito es nuestro compromiso",
+          "text": "Nosotros le asesoramos para desarrollar<br>su propio modelo de negocio y comenzar un proyecto exitoso en el rubro de los alimentos preparados con múltiples opciones de comercialización y distribución&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1l",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-portrait-of-a-smiling-food-retailer-with-a-male-customer-in-her-shop-61347178-2000x1440-14.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Una gran oportunidad <br>para un gran negocio",
+          "text": "<p>Un sin fin de posibilidades para llevar a cabo una gran red de distribución y de retribución</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "content6-1t",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text1": "<ul><li>Promueva y distribuya alimentos en su comunidad</li></ul><p><br></p><ul><li>Distribuya en centros de trabajo con alta densidad</li></ul><p><br></p>",
+          "text2": "<ul><li>Genere redes de distribuidores independientes (Ventas Directas)</li></ul><p><br></p><ul><li>Ofrezca soluciones a centros de producción masiva de alimentos</li></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-woman-putting-tv-dinner-into-microwave-oven-to-cook-234670651-2000x1422-5.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Alimentos listos <br>para su consumo",
+          "text": "<p>Las características particulares de nuestros alimentos son su mayor fortaleza</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "12px"
+            },
+            ".navbar-toggler": {
+              "color": "#c1c1c1"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c1c1c1"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c1c1c1",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-family": "'Titillium Web', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c1c1c1",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-t",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Titillium Web",
+              "url": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "css": "'Titillium Web', sans-serif"
+            },
+            "fontColor": "#c1c1c1",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/meal-imagen-base-244x128-11.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mexican Alimentary Fresh Technology</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"evolucionalimentaria.html\">Evolución Alimentaria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"oportunidaddenegocio.html\">Oportunidad de Negocio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nuestromenu.html\">Nuestro Menú</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nuestrasinstalaciones.html\">Nuestras Instalaciones</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-p\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-u",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Mexican Alimentary Fresh Technology - México 2016 Todos los derechos reservados."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "content6-1u",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text1": "<ul><li>No requiren refrigeración ó congelación antes de abrirse</li></ul><p><br></p><ul><li>Almacenamiento en anaquel seco hasta por 1 año</li></ul><p><br></p><ul><li>SIN Conservadores, SIN Colorantes, SIN Químicos</li></ul><p><br></p><ul><li>100% naturales</li></ul><p><br></p><ul><li>Bajos en sodio</li></ul>",
+          "text2": "<ul><li>Bajos en grasas saturadas</li></ul><p><br></p><ul><li>Sabor 100% fresco</li></ul><p><br></p><ul><li>Alimentación correctamente balanceada</li></ul><p><br></p><ul><li>Control de obesidad, diabetes e hipertensión</li></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-cologne-germany-march-new-dosing-machine-sd-for-trend-food-on-display-at-the-leonhardt-99203246-2000x1422-36.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Las ventajas que le <br>ofrece como negocio",
+          "text": "<p>Gracias a su versatilidad como producto preparado usted obtiene&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">gran superioridad&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">frente a la competencia y una gran eficiencia en tiempos, entregas, abasto y normas sanitarias</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "content1-1q",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<ul><li>Elimine problemas con los proveedores de materia prima</li></ul><p><br></p><ul><li>Reduzca considerablemente la carga patronal y costos laborales de  producción</li></ul><p><br></p><ul><li>Cambie espacios de producción alimentaria, por espacios de  mayor  rendimiento administrativo, operacional ó financiero</li></ul><p><br></p><ul><li>Olvide costos de equipamiento y mantenimiento en áreas de  producción</li></ul><p><br></p><ul><li>Control de inventario y consumos con estricta presición</li></ul><p><br></p><ul><li>No más mermas</li></ul><p><br></p><ul><li>Reduzca costos en logística y suprima el almacenamiento en cámaras de  refrigeración ó congelación</li></ul><p><br></p><ul><li>Elimine la carga fiscal que generan todos los insumos y mano de  obra</li></ul><p><br></p><ul><li>Homologación de alimentos</li></ul><p><br></p><ul><li>Nuestros alimentos no generan I.V.A. según al artículo 2-  A,fracción I, en su último párrafo de la ley del I.V.A.</li></ul><p><br></p><ul><li>Todas las recetas están seleccionadas por un selecto  equipo de  profesionales de la industria alimentaria  conformado por -  Investigadores, Chefs y Nutriólogos</li></ul><p><br></p><ul><li>Elimine enfermedades transmitidas por alimentos</li></ul>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/stock-photo-restaurant-worker-serving-two-fast-food-meals-with-smile-woman-holding-tray-with-salads-at-fast-249788188-2000x1422-84.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Sus aplicaciones lo hacen<br>un negocio aún más atractivo<br>",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Sólo imagine todos los lugares donde este tipo de producto puede ser consumido</span><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "content7-1v",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgColor": "#fff"
+          },
+          "text1": "<ul><li>Consumo familiar en cualquier hogar</li></ul><p><br></p><ul><li>&nbsp;Venta retail</li></ul><p><br></p><ul><li>Cafeterías y restaurantes</li></ul><p><br></p><ul><li>Franquicias</li></ul><p><br></p><ul><li>Comedores de empleados</li></ul><p><br></p><ul><li>Comedores industriales</li></ul><p><br></p><ul><li>Poblaciones con difícil acceso</li></ul>",
+          "text2": "<ul><li>Instituciones gubernamentales</li></ul><p><br></p><ul><li>Eventos y banquetes</li></ul><p><br></p><ul><li>Parques de diversiones</li></ul><p><br></p><ul><li>Empresas</li></ul><p><br></p><ul><li>Obras y construcciones</li></ul><p><br></p><ul><li>Campamentos</li></ul><p><br></p><ul><li>Desastres naturales</li></ul>",
+          "text3": "<ul><li>Flotas navales</li></ul><p><br></p><ul><li>Locaciones remotas</li></ul><p><br></p><ul><li>Minería</li></ul><p><br></p><ul><li>Perforaciones en mar y tierra</li></ul><p><br></p><ul><li>Maquiladoras</li></ul><p><br></p><ul><li>Despensas</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "SPAN": {
+              "color": "#7c7c7c",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "STRONG": {
+              "font-size": "14px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#7c7c7c"
+            },
+            "UL": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "contacts4-v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\"><b>Visítenos</b></span><br><br>Av. La Cañada No. 8-N<br>Parque Industrial Bernardo Quintana<br>El marqués, Querétaro 76246<br><br><br>\n<b>Póngase en contacto&nbsp;</b><br><b><br></b>Rellene el formulario y a la brevedad lo contactaremos.",
+          "text2": "<p class=\"mbr-contacts__text\"><b>Mapa del sitio</b></p><p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"evolucionalimentaria.html\">Evolución Alimentaria</a></li><li><a href=\"oportunidaddenegocio.html\">Oportunidad de Negocio</a></li><li><a href=\"nuestromenu.html\">Nuestro Menú</a></li><li><a href=\"nuestrasinstalaciones.html\">Nuestras Instalaciones</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "agasca@mealft.com.mx",
+            "alerts": {
+              "success": "Su mensaje ha sido recibido!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contáctenos</a>"
+        }
+      ]
+    },
+    "nuestrasinstalaciones.html": {
+      "settings": {
+        "title": "Nuestras Instalaciones"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-11",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgColor": "#53b961",
+            "showMeta": false
+          },
+          "title": "Nuestras Instalaciones",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-size": "60px"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-1x",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/stock-photo-line-packing-meat-products-meat-factory-219354388-1400x1020-61.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "La evolución depende de&nbsp;<br>herramientas",
+          "text": "Y nosotros contamos con las más avanzadas en tecnología &nbsp;de procesamiento y preparación de los alimentos, así como en &nbsp;los más altos estándares de sanidad que nos requieren las normas de calidad del del mercado nacional e internacional.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planta-1-2000x1500-82-2000x1500-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/planta-1-2000x1500-82.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planta-2-2000x1500-65-2000x1500-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/planta-2-2000x1500-65.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planta-3-2000x1500-95-2000x1500-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/planta-3-2000x1500-95.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planta-4-2000x1500-65-2000x1500-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/planta-4-2000x1500-65.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planta-5-2000x1500-70-2000x1500-25.jpg",
+                "image": "@PROJECT_PATH@/assets/images/planta-5-2000x1500-70.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planta-6-2000x1500-25-2000x1500-85.jpg",
+                "image": "@PROJECT_PATH@/assets/images/planta-6-2000x1500-25.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planta-7-2000x1500-77-2000x1500-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/planta-7-2000x1500-77.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planta-8-2000x1500-48-2000x1500-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/planta-8-2000x1500-48.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planta-9-2000x1500-90-2000x1500-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/planta-9-2000x1500-90.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planta-10-2000x1500-87-2000x1500-89.jpg",
+                "image": "@PROJECT_PATH@/assets/images/planta-10-2000x1500-87.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planta-11-2000x1500-62-2000x1500-48.jpg",
+                "image": "@PROJECT_PATH@/assets/images/planta-11-2000x1500-62.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-1y",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1z",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=7tiy1t5iYHE",
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Planta de MEAL FT"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "12px"
+            },
+            ".navbar-toggler": {
+              "color": "#c1c1c1"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#c1c1c1"
+            },
+            ".link, .dropdown-item": {
+              "color": "#c1c1c1",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-family": "'Titillium Web', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#c1c1c1",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-w",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Titillium Web",
+              "url": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "css": "'Titillium Web', sans-serif"
+            },
+            "fontColor": "#c1c1c1",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/meal-imagen-base-244x128-11.png",
+              "height": 128,
+              "alt": "",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mexican Alimentary Fresh Technology</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"evolucionalimentaria.html\">Evolución Alimentaria</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"oportunidaddenegocio.html\">Oportunidad de Negocio</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nuestromenu.html\">Nuestro Menú</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"nuestrasinstalaciones.html\">Nuestras Instalaciones</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-p\">Contacto</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-x",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Mexican Alimentary Fresh Technology - México 2016 Todos los derechos reservados."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "SPAN": {
+              "color": "#7c7c7c",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "STRONG": {
+              "font-size": "14px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
+            },
+            "B": {
+              "color": "#7c7c7c"
+            },
+            "UL": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_anchor": "contacts4-y",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<span style=\"font-size: 0.875rem; line-height: 1.5;\"><b>Visítenos</b></span><br><br>Av. La Cañada No. 8-N<br>Parque Industrial Bernardo Quintana<br>El marqués, Querétaro 76246<br><br><br>\n<b>Póngase en contacto&nbsp;</b><br><b><br></b>Rellene el formulario y a la brevedad lo contactaremos.",
+          "text2": "<p class=\"mbr-contacts__text\"><b>Mapa del sitio</b></p><p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><a href=\"evolucionalimentaria.html\">Evolución Alimentaria</a></li><li><a href=\"oportunidaddenegocio.html\">Oportunidad de Negocio</a></li><li><a href=\"nuestromenu.html\">Nuestro Menú</a></li><li><a href=\"nuestrasinstalaciones.html\">Nuestras Instalaciones</a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "agasca@mealft.com.mx",
+            "alerts": {
+              "success": "Su mensaje ha sido recibido!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contáctenos</a>"
+        }
+      ]
+    }
+  }
+}
